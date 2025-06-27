@@ -6,7 +6,7 @@ public class statement {
 
        System.out.println("one");
        System.out.println("two");
-       System.out.println("five");
+       System.out.println("fi");
         
         
         
